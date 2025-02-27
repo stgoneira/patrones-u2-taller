@@ -8,7 +8,7 @@ git clone https://github.com/stgoneira/patrones-u2-taller.git
 
 ## Ejecutar
 
-### Para Linux o MacOS
+### Para Windows
 ```
 ./gradlew.bat bootRun
 ```
